@@ -34,7 +34,7 @@
                 <li><a href="tema9/ejemplo3.php">Ejemplo 3</a></li>
             </ul>
         </li>
-        
+
         <li>
             <h4>Ejemplos del tema 11</h4>
             <ul>
@@ -48,9 +48,9 @@
         </li>
 
         <li>
-            
+
             <h4>Hoja de ejercicios nº1</h4>
-            
+
             <ul>
                 <li><a href="Hoja1/ejercicio1.php">Ejercicio 1</a></li>
             </ul>
@@ -78,13 +78,13 @@
             <ul>
                 <li><a href="Hoja1/ejercicio9.php">Ejercicio 9</a></li>
             </ul>
-        </li> 
-        
+        </li>
+
 
         <li>
 
         <h4>Hoja de ejercicios nº2</h4>
-        
+
         <ul>
             <li><a href="Hoja2/ejercicio1.php">Ejercicio 1</a></li>
         </ul>
@@ -100,16 +100,6 @@
 
         </li>
 
-
     </ul>
 </body>
 </html>
-    
-
-
-
-
-
-
-
-
